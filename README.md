@@ -2,7 +2,7 @@
 Coding Project: Improve an Urban Trajectory Visualization System
 
 
-![alt text](https://github.com/sahilsood/Movie-Database-App/blob/master/urbn.png)
+![alt text](https://github.com/sahilsood/UrbanTrajectoryVisualizationSystem/blob/master/urbn.png)
 
 	Introduction 
 In this project, the given prototype of a Visual analytics system for urban trajectory datasets has been modified to support data exploration and analytical reasoning with interactive visual interfaces. It allows users to interactively visualize and analyse the massive taxi trajectories over urban spaces. The interface offers data management capability and enable various visual queries through a web interface. The system should help the user to conduct visual analytics tasks through interactive visualization in an iterative, exploratory process. 
